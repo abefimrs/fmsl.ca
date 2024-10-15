@@ -1,0 +1,72 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: September 26, 2024 12:49 pm
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.5.11
+WORDPRESS:	6.6.2
+PHP INFO:	7.4.33 | SAPI: litespeed
+SERVER:		LiteSpeed 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (1024M default) 
+MEMORY STACK: 10MB
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported
+SQL CREATED: 20240812_fernandesmarineservices_2f054a80256c66d95323_20240926124744_database.sql
+SQL FILE SIZE: 19.9MB (20871408)
+SQL FILE TIME: 2024-09-26 12:49:34
+SQL RUNTIME: 0.91 sec.
+
+********************************************************************************
+ARCHIVE (ZIP):
+********************************************************************************
+ARCHIVE DIR:  /home/shopopxg/projects.helpdesk-bd.com
+ARCHIVE FILE: 20240812_fernandesmarineservices_2f054a80256c66d95323_20240926124744_archive.zip
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	1.15GB
+STATS:	Dirs 4,153 | Files 33,923
+SQL ADDED: 20240812_fernandesmarineservices_2f054a80256c66d95323_20240926124744_database.sql
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 38076
+    [filename] => /home/shopopxg/projects.helpdesk-bd.com/wp-content/backups-dup-lite/tmp/20240812_fernandesmarineservices_2f054a80256c66d95323_20240926124744_archive.zip
+    [comment] => 
+)
+
+FILE ADDED TO ZIP: 38075
+COMPRESSION RESULT: '1'
+COMPRESSED SIZE: 861.6MB
+ARCHIVE RUNTIME: 102.29 sec.
+MEMORY STACK: 24.93MB
+building installer
+ARCHIVE CONSISTENCY TEST: PASS
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 19.9MB
+INSTALLER FILE: 73.49KB
+ARCHIVE FILE: 864.01MB 
+EXPECTED FILE/DIRECTORY COUNT: 38,076
+ACTUAL FILE/DIRECTORY COUNT: 38,075
+ARCHIVE CONSISTENCY TEST: Pass
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 139.99 sec.
+PEAK PHP MEMORY USED: 32.94MB
+DONE PROCESSING => 20240812_fernandesmarineservices September 26, 2024 12:51 pm
+
